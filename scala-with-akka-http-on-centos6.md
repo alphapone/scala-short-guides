@@ -21,7 +21,8 @@ ln -s /usr/lib/scala-2.13.1 /usr/lib/scala
 ln -s /usr/lib/scala/bin/scala /etc/alternatives/scala
 ln -s /etc/alternatives/scala /usr/bin/scala
 ```
-    Now you can run scala 2.13 simply type scala in command line.
+
+Now you can run scala 2.13 simply type _scala_ in command line.
 
 * Get akka httpd jars.
 Yes, you can use sbt... But command line with installed libraries is greater than more usable.
