@@ -24,7 +24,7 @@ ln -s /etc/alternatives/scala /usr/bin/scala
 
 Now you can run scala 2.13 simply type _scala_ in command line.
 
-* Get akka httpd jars.
+* Get akka Http server jars.
 Yes, you can use sbt... But command line with installed libraries is greater than more usable.
 So simple download and copy them...
 ```
