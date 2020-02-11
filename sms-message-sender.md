@@ -1,5 +1,5 @@
 # Our-message-sender
-SMS message sender using android pool device
+SMS message sender which uses android device pool for SMS sending
 
 A sample for simple but business usefull service in scala
 
