@@ -40,7 +40,7 @@ object WebServer {
     implicit val executionContext = system.dispatcher
 
     case class SmsToSend(var phoneTo:String, var message:String)
-    implicit val personFormat = jsonFormat2(SmsToSend)
+    implicit val smsToSendFormat = jsonFormat2(SmsToSend)
 
     val route =
       path("sms") {
