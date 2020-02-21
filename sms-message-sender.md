@@ -90,8 +90,8 @@ object WebServer {
 
 Save the code into our-message-sender.scala file, grant execute permission using `chmod` and run `./our-message-sender.scala`
 
-## Interested in scala development?
+## Interested in scala or java development?
 
-Contact to sinergo.ru team and get more professional development resource or mail to inl@yandex.com
+Write to inl@yandex.com please
 
 
