@@ -85,6 +85,6 @@ So you can develop and test any proxy integration or webhook consumer server
 by small simple script typing without resource intensive development in IDE or sbt.
 It is very usefull for ideas testing.
 
-## Do you interested in more professional scala development and support?
-Contact to sinergo.ru team then.
+## Do you interested in scala or java development?
+Write to inl@yandex.com please.
 
